@@ -1,3 +1,4 @@
 First test
 First test update - soft reset
 changes in new branch feature branch - 2
+do something now
